@@ -1,0 +1,24 @@
+D:\Projects\Two\bin\Debug\netcoreapp3.1\Two.exe
+D:\Projects\Two\bin\Debug\netcoreapp3.1\Two.deps.json
+D:\Projects\Two\bin\Debug\netcoreapp3.1\Two.runtimeconfig.json
+D:\Projects\Two\bin\Debug\netcoreapp3.1\Two.runtimeconfig.dev.json
+D:\Projects\Two\bin\Debug\netcoreapp3.1\Two.dll
+D:\Projects\Two\bin\Debug\netcoreapp3.1\Two.pdb
+D:\Projects\Two\obj\Debug\netcoreapp3.1\Two.csprojAssemblyReference.cache
+D:\Projects\Two\obj\Debug\netcoreapp3.1\Two.AssemblyInfoInputs.cache
+D:\Projects\Two\obj\Debug\netcoreapp3.1\Two.AssemblyInfo.cs
+D:\Projects\Two\obj\Debug\netcoreapp3.1\Two.dll
+D:\Projects\Two\obj\Debug\netcoreapp3.1\Two.pdb
+C:\Users\alexd\OneDrive\Рабочий стол\DZ4\Two\obj\Debug\netcoreapp3.1\Two.dll
+C:\Users\alexd\OneDrive\Рабочий стол\DZ4\Two\obj\Debug\netcoreapp3.1\Two.pdb
+C:\Users\alexd\OneDrive\Рабочий стол\DZ4\Two\bin\Debug\netcoreapp3.1\Two.exe
+C:\Users\alexd\OneDrive\Рабочий стол\DZ4\Two\bin\Debug\netcoreapp3.1\Two.deps.json
+C:\Users\alexd\OneDrive\Рабочий стол\DZ4\Two\bin\Debug\netcoreapp3.1\Two.runtimeconfig.json
+C:\Users\alexd\OneDrive\Рабочий стол\DZ4\Two\bin\Debug\netcoreapp3.1\Two.runtimeconfig.dev.json
+C:\Users\alexd\OneDrive\Рабочий стол\DZ4\Two\bin\Debug\netcoreapp3.1\Two.dll
+C:\Users\alexd\OneDrive\Рабочий стол\DZ4\Two\bin\Debug\netcoreapp3.1\Two.pdb
+C:\Users\alexd\OneDrive\Рабочий стол\DZ4\Two\obj\Debug\netcoreapp3.1\Two.csprojAssemblyReference.cache
+C:\Users\alexd\OneDrive\Рабочий стол\DZ4\Two\obj\Debug\netcoreapp3.1\Two.csproj.CoreCompileInputs.cache
+C:\Users\alexd\OneDrive\Рабочий стол\DZ4\Two\obj\Debug\netcoreapp3.1\Two.AssemblyInfoInputs.cache
+C:\Users\alexd\OneDrive\Рабочий стол\DZ4\Two\obj\Debug\netcoreapp3.1\Two.AssemblyInfo.cs
+C:\Users\alexd\OneDrive\Рабочий стол\DZ4\Two\obj\Debug\netcoreapp3.1\Two.genruntimeconfig.cache
