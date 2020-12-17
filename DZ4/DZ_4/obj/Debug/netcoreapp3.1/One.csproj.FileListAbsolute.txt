@@ -1,0 +1,24 @@
+D:\Projects\DZ_4\bin\Debug\netcoreapp3.1\One.exe
+D:\Projects\DZ_4\bin\Debug\netcoreapp3.1\One.deps.json
+D:\Projects\DZ_4\bin\Debug\netcoreapp3.1\One.runtimeconfig.json
+D:\Projects\DZ_4\bin\Debug\netcoreapp3.1\One.runtimeconfig.dev.json
+D:\Projects\DZ_4\bin\Debug\netcoreapp3.1\One.dll
+D:\Projects\DZ_4\bin\Debug\netcoreapp3.1\One.pdb
+D:\Projects\DZ_4\obj\Debug\netcoreapp3.1\One.csprojAssemblyReference.cache
+D:\Projects\DZ_4\obj\Debug\netcoreapp3.1\One.AssemblyInfoInputs.cache
+D:\Projects\DZ_4\obj\Debug\netcoreapp3.1\One.AssemblyInfo.cs
+D:\Projects\DZ_4\obj\Debug\netcoreapp3.1\One.dll
+D:\Projects\DZ_4\obj\Debug\netcoreapp3.1\One.pdb
+C:\Users\alexd\OneDrive\Рабочий стол\DZ_4\bin\Debug\netcoreapp3.1\One.exe
+C:\Users\alexd\OneDrive\Рабочий стол\DZ_4\bin\Debug\netcoreapp3.1\One.deps.json
+C:\Users\alexd\OneDrive\Рабочий стол\DZ_4\bin\Debug\netcoreapp3.1\One.runtimeconfig.json
+C:\Users\alexd\OneDrive\Рабочий стол\DZ_4\bin\Debug\netcoreapp3.1\One.runtimeconfig.dev.json
+C:\Users\alexd\OneDrive\Рабочий стол\DZ_4\bin\Debug\netcoreapp3.1\One.dll
+C:\Users\alexd\OneDrive\Рабочий стол\DZ_4\bin\Debug\netcoreapp3.1\One.pdb
+C:\Users\alexd\OneDrive\Рабочий стол\DZ_4\obj\Debug\netcoreapp3.1\One.csprojAssemblyReference.cache
+C:\Users\alexd\OneDrive\Рабочий стол\DZ_4\obj\Debug\netcoreapp3.1\One.csproj.CoreCompileInputs.cache
+C:\Users\alexd\OneDrive\Рабочий стол\DZ_4\obj\Debug\netcoreapp3.1\One.AssemblyInfoInputs.cache
+C:\Users\alexd\OneDrive\Рабочий стол\DZ_4\obj\Debug\netcoreapp3.1\One.AssemblyInfo.cs
+C:\Users\alexd\OneDrive\Рабочий стол\DZ_4\obj\Debug\netcoreapp3.1\One.dll
+C:\Users\alexd\OneDrive\Рабочий стол\DZ_4\obj\Debug\netcoreapp3.1\One.pdb
+C:\Users\alexd\OneDrive\Рабочий стол\DZ_4\obj\Debug\netcoreapp3.1\One.genruntimeconfig.cache
